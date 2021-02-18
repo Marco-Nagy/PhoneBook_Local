@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneBook Local</string>
+    <string name="name">Name</string>
+    <string name="add_phone_number">Add Phone Number</string>
+    <string name="phone">Phone</string>
+    <string name="delete">Delete</string>
+</resources>
