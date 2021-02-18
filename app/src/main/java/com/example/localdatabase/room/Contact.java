@@ -21,7 +21,7 @@ public class Contact {
         this.name = name;
         this.phone = phone;
     }
-
+/////
     public Contact() {
     }
 

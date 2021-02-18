@@ -18,6 +18,7 @@ public interface ContactDao {
     void deleteContact(Contact contact);
     @Query("SELECT * FROM contacts")
     List<Contact> getContact();
+    ////
 
 
 }
